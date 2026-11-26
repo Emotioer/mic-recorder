@@ -4,6 +4,12 @@
 
 A simple voice recorder for Android 7+ built for phones with a broken main microphone: it records stereo 48 kHz audio, automatically picks the mic channel that actually carries your voice, and saves small AAC `.m4a` files. Dark UI, one record button, no clutter.
 
+## Download — التحميل
+
+📱 حمّل أحدث نسخة من التطبيق جاهزة للتثبيت (APK) من هنا: [تحميل مسجل الصوت](https://github.com/Emotioer/mic-recorder/releases/latest)
+
+📱 Download the latest ready-to-install APK here: [Download Mic Recorder](https://github.com/Emotioer/mic-recorder/releases/latest)
+
 ## Features — المميزات
 
 - 🎤 Auto-picks the live mic channel by comparing left/right energy — بيختار القناة الشغالة في المايك تلقائيًا
